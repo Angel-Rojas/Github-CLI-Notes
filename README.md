@@ -1,18 +1,18 @@
 # GitHub Command-Line Notes! General usage
 
-// to initialize empty repository
+// to initialize empty repository:
     git init
 
-// add your changes or files
+// add your changes or files:
     git add example.cpp          (or git add *)
 
-// commit changes
+// commit changes:
     git commit -m "my msg here"
 
-// add the remote path of repository
+// add the remote path of repository:
     *** you copy and paste the path from github
 
-// push changes
+// push changes:
     git push origin master
 
 
